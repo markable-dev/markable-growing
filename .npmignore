@@ -1,0 +1,12 @@
+node_modules
+.idea
+.vscode
+tmp
+dist
+samples
+/data
+coverage
+.nyc_output
+*.log
+*.yaml
+.DS_Store

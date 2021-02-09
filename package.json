@@ -1,0 +1,21 @@
+{
+  "name": "growing-node-sdk",
+  "version": "0.0.1",
+  "description": "A growing-io server sdk for nodejs.",
+  "main": "index.js",
+  "author": "leaf4monkey <leaf4monkey@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node samples/gio.js"
+  },
+  "dependencies": {
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/superagent": "^4.1.10",
+    "chai": "^4.3.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.4"
+  }
+}
