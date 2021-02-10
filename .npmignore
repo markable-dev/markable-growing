@@ -4,6 +4,8 @@ node_modules
 tmp
 dist
 samples
+spec
+.mocharc.yml
 /data
 coverage
 .nyc_output
