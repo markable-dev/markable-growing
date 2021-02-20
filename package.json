@@ -1,6 +1,6 @@
 {
   "name": "growing-node-sdk",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A growing-io server sdk for nodejs.",
   "main": "index.js",
   "author": "leaf4monkey <leaf4monkey@gmail.com>",
